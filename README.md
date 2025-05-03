@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Chinmay1598-ml/Chinmay1598-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Scientist** with 1–2 years of hands-on experience in Python, Machine Learning, and Data Analytics. I enjoy solving real-world problems using data, automation, and open-source tools.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming:** Python, SQL, Git
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning:** Classification, Clustering, Recommendation Systems
+- **Tools:** Jupyter Notebook, Streamlit, Google Colab, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Projects
+- 📝 **Resume ATS Score Predictor** – A tool to score resumes against ATS criteria using NLP
+- 🎵 **Spotify Music Recommender** – Suggests songs based on mood and listening patterns
+- 😃 **Facial Emotion Detection** – Detects emotions from webcam feed using ML models
+
+## 📌 Featured Repositories
+- [resume-ats-score-predictor](https://github.com/Chinmay1598-ml/resume-ats-score-predictor)  
+  ATS-based resume evaluator built with open-source ML tools
+
+## 📫 Connect with Me
+- 📍 Bengaluru, India  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+- 📬 Email: your.email@example.com (optional)
+
+---
+
+⭐️ *Thank you for visiting my profile!*
