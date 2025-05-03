@@ -19,8 +19,8 @@ I'm a passionate **Data Scientist** with 1–2 years of hands-on experience in P
 
 ## 📫 Connect with Me
 - 📍 Bengaluru, India  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-- 📬 Email: your.email@example.com (optional)
+- 💼 [LinkedIn] www.linkedin.com/in/chinmaydeshpande15
+- 📬 Email: chinmayd1198@gmail.com
 
 ---
 
