@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate **Data Scientist** with 1–2 years of hands-on experience in Python, Machine Learning, and Data Analytics. I enjoy solving real-world problems using data, automation, and open-source tools.
+I'm a passionate **Data Scientist** with 1 year of hands-on experience in Python, Machine Learning, and Data Analytics. I enjoy solving real-world problems using data, automation, and open-source tools.
 
 ## 🔧 Skills
 - **Programming:** Python, SQL, Git
