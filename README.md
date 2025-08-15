@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Chinmay Deshpande, a passionate Data Scientist with 1 year of hands-on experience in Python, Machine Learning, and Data Analytics.
+I’m Chinmay Deshpande, a passionate Data Scientist with 2 years of hands-on experience in Python, Machine Learning, and Data Analytics.
 I love turning raw data into actionable insights and building intelligent systems that solve real-world problems.
 
 ## 🔧 Skills & Technologies
